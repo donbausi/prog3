@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Kalle\Documents\PIII\Uebung1\quadrGleich\main.c(16,10): warning C4477: "scanf_s": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "float *" auf.
+C:\Users\Kalle\Documents\PIII\Uebung1\quadrGleich\main.c(18,10): warning C4477: "scanf_s": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "float *" auf.
+C:\Users\Kalle\Documents\PIII\Uebung1\quadrGleich\main.c(20,10): warning C4477: "scanf_s": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "float *" auf.
+C:\Users\Kalle\Documents\PIII\Uebung1\quadrGleich\main.c(22,10): warning C4477: "scanf_s": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "float *" auf.
+C:\Users\Kalle\Documents\PIII\Uebung1\quadrGleich\main.c(28,16): warning C4013: "quaGL" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Kalle\Documents\PIII\Uebung1\quadrGleich\main.c(41,7): warning C4013: "getch" undefiniert; Annahme: extern mit Rückgabetyp int
+  quadrGleich.vcxproj -> C:\Users\Kalle\Documents\PIII\Uebung1\Debug\quadrGleich.exe
