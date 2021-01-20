@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Medium" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQEAAAAAAAAACAAQAAEQAAAKIAAIIBIiEAAMAAA=</HashCode>
+      <FileName>Medium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Film" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAAEAACAAAAAgAAAAIBAAIAAAgEAAAAAA=</HashCode>
+      <FileName>Film.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliothekException" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgACA=</HashCode>
+      <FileName>Bibliothek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bibliothek&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAgAAAAQAAAEAIQgQQAAAAEAAAAAgAIwAAACAAA=</HashCode>
+      <FileName>Bibliothek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buch" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAACBEAAQAAACAIAAAIAAAgEAAAAAA=</HashCode>
+      <FileName>Buch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAQAAAAAIAAAAAAAEAABAIAAkEAABAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
